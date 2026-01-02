@@ -53,7 +53,7 @@ Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recen
   <a href="https://www.linkedin.com/in/davi-mazoti-bb28ab323">
     <img src="https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="https://davimazoti.github.io/Portifolio_web/">
+  <a href=" https://davimazoti.github.io/Portfolio_web/">
     <img src="https://img.shields.io/badge/PORTFÓLIO-yellow?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 </div>
