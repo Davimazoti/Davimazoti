@@ -25,6 +25,9 @@ Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recen
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,6 +52,9 @@ Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recen
   </a>
   <a href="https://www.linkedin.com/in/davi-mazoti-bb28ab323">
     <img src="https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://davimazoti.github.io/Portifolio_web/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-yellow?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 </div>
 
