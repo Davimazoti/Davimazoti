@@ -1,40 +1,46 @@
 <div align="center">
   <h1>Olá, sou Davi Mazoti 👋</h1>
-  <p>Entusiasta de tecnologia e futuro Desenvolvedor Full Stack</p>
+  <p>Entusiasta do mundo da tecnologia e Desenvolvedor em formação</p>
 </div>
 
 ---
 
 ### 💻 Sobre Mim
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davimazoti&show_icons=true&theme=dark" align="right" width="400" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Davimazoti&show_icons=true&theme=dark&hide_border=true" align="right" width="400" alt="Estatísticas do GitHub" />
 
-Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvimento de Sistemas no SENAI**. Minha paixão é o Back-End, mas busco o domínio Full Stack.
+Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recentemente, **concluí minha formação técnica em Desenvolvimento de Sistemas pelo SENAI**, onde consolidei as bases para me tornar um programador Full Stack.
 
-* 🌐 **Foco:** Desenvolvimento de interfaces modernas e APIs robustas.
-* ⚙️ **Back-end:** Interesse em Java (Spring Boot) e Python.
-* 🚀 **Objetivo:** Evoluir como dev colaborando em projetos reais.
+* 🚀 **Foco atual:** Desenvolvimento de interfaces modernas e sistemas escaláveis.
+* ⚙️ **Especialização:** Aprimorando domínios em **Java (Spring Boot)** e **Python** no Back-end, sem deixar de lado a criação de interfaces modernas no Front-end.
+* 🤝 **Colaboração:** Busco oportunidades para evoluir e contribuir em projetos desafiadores.
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas que utilizo
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <br>
 
-![SCRUM](https://img.shields.io/badge/SCRUM-yellow?style=for-the-badge&logo=scrum)
-![KANBAN](https://img.shields.io/badge/KANBAN-orange?style=for-the-badge&logo=kanban)
+![SCRUM](https://img.shields.io/badge/SCRUM-yellow?style=for-the-badge&logo=scrum&logoColor=black)
+![KANBAN](https://img.shields.io/badge/KANBAN-orange?style=for-the-badge&logo=kanban&logoColor=black)
+![GITFLOW](https://img.shields.io/badge/GITFLOW-yellowgreen?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🎓 Formação
-* 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAI (2024 - 2025)
-* 🏫 **Ensino Médio** - Alvaro Guião 
+* 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAI (2024 a 2025)
+* 🏫 **Ensino Médio Completo** - Alvaro Guião
 
 ---
 
@@ -47,3 +53,7 @@ Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvi
     <img src="https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
+
+<br>
+
+*Se quiser me conhecer melhor ou colaborar em algum projeto, será um prazer trocar ideias!*
