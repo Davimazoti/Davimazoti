@@ -45,10 +45,10 @@ Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recen
 ### 📫 Contato & Portfólio
 <div align="left">
   <a href="mailto:davilmazoti07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
-  <a href="linkedin.com/in/davi-mazoti-bb28ab323">
-    <img src="https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <a href="https://www.linkedin.com/in/davi-mazoti-bb28ab323">
+    <img src="https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
 </div>
 
