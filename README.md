@@ -7,7 +7,9 @@
 
 ### 💻 Sobre Mim
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davimazoti&show_icons=true&theme=dark&hide_border=true" align="right" width="400" alt="Estatísticas do GitHub" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davimazoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub Davi" />
+</p>
 
 Me chamo **Davi Mazoti**, tenho 18 anos e sou um entusiasta da tecnologia. Recentemente, **concluí minha formação técnica em Desenvolvimento de Sistemas pelo SENAI**, onde consolidei as bases para me tornar um programador Full Stack.
 
